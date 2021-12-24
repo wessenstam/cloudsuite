@@ -1,4 +1,4 @@
-.. title:: ThycoticCentrify - Server Suite Handson Training
+.. title:: ThycoticCentrify - Cloud Suite Handson Training
 
 .. toctree::
    :maxdepth: 2
@@ -96,14 +96,16 @@
 About this guide
 ----------------
 
-This hands-on exercise guide will walk you through the fundamental features and functionality of Centrify Server Suite. You will be working with several computer systems as you complete each exercise, however not all systems will need to be powered during each lab exercise. Before each lab begins you will be provided initial instructions related to required systems. This is done to conserve resources in the virtual environment.
+This hands-on exercise guide will walk you through the fundamental features and functionality of Centrify Cloud Suite. You will be working with several computer systems as you complete each exercise, however not all systems will need to be powered during each lab exercise. Before each lab begins you will be provided initial instructions related to required systems. This is done to conserve resources in the virtual environment.
 
 | If you plan to use the training materials for in-house training, you can configure a training environment in your network, but it is recommended to consider your network configurations and security practices. This environment is for training purposes and will not match your network environment. Use the **Appendix** in the **Student Guide** to read more about the training environment and how it is configured.
 
-| During this training, you will be working with Greensafe Payroll Services. Alex Foster is the primary administrator of the Infrastructure. Greensafe’s network includes a Windows Active Directory domain controller, one (A) Windows Application Server, one (1) Microsoft SQL Server, and two (2) UNIX servers. A “cloud” environment is also used for DevOps and includes two independent non-AD joined servers. As part of the purchase of Centrify Server Suite, a SaaS based Centrify Identity Platform (tenant) has been provided to facilitate the management of the environment.
+| During this training, you will be working with Greensafe Payroll Services. Alex Foster is the primary administrator of the Infrastructure. Greensafe’s network includes a Windows Active Directory domain controller, one (A) Windows Application Server, one (1) Microsoft SQL Server, and two (2) UNIX servers. A "cloud" environment is also used for DevOps and includes two independent non-AD joined servers. As part of the purchase a SaaS based Centrify Identity Platform (tenant) has been provided to facilitate the management of the environment.
 
 
 .. figure:: images/infra-diagram.png
+
+For this training, the isolated network will be used to simulate a cloud environment (similar to that of an AWS or Azure environment)
 
 ------
 
