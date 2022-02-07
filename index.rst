@@ -107,8 +107,7 @@ This hands-on exercise guide will walk you through the fundamental features and 
 
 For this training, the isolated network will be used to simulate a cloud environment (similar to that of an AWS or Azure environment)
 
-.. note::
-   Need to create a newer version where we have some more Cloud Suite stuff..
+
 ------
 
 Start the lab :ref:`l1`
